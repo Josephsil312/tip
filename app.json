@@ -4,10 +4,10 @@
     "slug": "TipCalculator",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon.PNG",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/icon.PNG",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,11 +21,11 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.Tip.Calculator11",
-      "versionCode": 2
+      "package": "com.Tip.Calculator14",
+      "versionCode": 4
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/icon.PNG"
     },
     "extra": {
       "eas": {
