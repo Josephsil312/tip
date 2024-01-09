@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Tip_Calculator.app" target="17" />
+      <module name="Tip_Calculator.expo" target="17" />
+      <module name="Tip_Calculator.expo-application" target="17" />
+      <module name="Tip_Calculator.expo-constants" target="17" />
+      <module name="Tip_Calculator.expo-eas-client" target="17" />
+      <module name="Tip_Calculator.expo-file-system" target="17" />
+      <module name="Tip_Calculator.expo-font" target="17" />
+      <module name="Tip_Calculator.expo-json-utils" target="17" />
+      <module name="Tip_Calculator.expo-keep-awake" target="17" />
+      <module name="Tip_Calculator.expo-manifests" target="17" />
+      <module name="Tip_Calculator.expo-modules-core" target="17" />
+      <module name="Tip_Calculator.expo-splash-screen" target="17" />
+      <module name="Tip_Calculator.expo-structured-headers" target="17" />
+      <module name="Tip_Calculator.expo-updates" target="17" />
+      <module name="Tip_Calculator.expo-updates-interface" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
