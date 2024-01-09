@@ -1,36 +1,4 @@
 {
-  "expo": {
-    "name": "Tip Calculator",
-    "slug": "TipCalculator",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.PNG",
-    "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./assets/icon.PNG",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "package": "com.Tip.Calculator14",
-      "versionCode": 4
-    },
-    "web": {
-      "favicon": "./assets/icon.PNG"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "afe68be9-79c0-44e0-8756-da2be10ea46d"
-      }
-    }
-  }
+  "name": "TipCalculator",
+  "displayName": "Tip Calculator"
 }
