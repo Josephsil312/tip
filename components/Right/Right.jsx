@@ -6,11 +6,13 @@ const Right = (props) => {
     let totaltip
     let tipPercent = props.tipPercent
     let bill = props.bill
+
     if (tipPercent) {
         totaltip = tipPercent
     } else {
         totaltip = btntipp.toFixed(2)
     }
+
 
     return (
         <>
@@ -20,6 +22,7 @@ const Right = (props) => {
                         <Text style={{ color: 'white', fontWeight: 'bold', fontSize: 18 }}>Tip Amount</Text>
                         <Text style={{ color: '#8cedf6', fontWeight: 'bold', fontSize: 15,marginBottom:15 }}>/ person</Text>
                     </View>
+                    
                     <Text style={{ color: '#8cedf6', fontWeight: 'bold', fontSize: 20 }}>${(totaltip / Number(numofpeep)).toFixed(2)}</Text>
                 </View>
                 <View style={{ justifyContent: 'space-between', flexDirection: 'row' }}>

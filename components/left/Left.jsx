@@ -1,6 +1,4 @@
 
-// 1. import `NativeBaseProvider` component
-
 import { useState } from "react"
 
 import { Alert, Text, TextInput, TouchableOpacity, View } from 'react-native'
@@ -79,7 +77,7 @@ const Left = () => {
         </View>
         {
           <Right btntip={btntip} handleReset={handleReset} numOfPeople={count} bill={bill} tipPercent={tipPercent} />
-        }
+        } 
       </View>
     </>
   )
